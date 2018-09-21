@@ -1,0 +1,78 @@
+.wrap {
+	min-width: 600px;
+	width: 80%;
+	margin: auto;
+	background: #66FF00;
+	overflow: hidden;
+	font-family: Sans-Serif;
+}
+
+.content , aside {
+	height: 600px;
+}
+
+.content {
+	background: Yellow;
+	float: left;
+	width: 80%;
+	font-family: Sans-Serif;
+}
+
+aside {
+	background : Red;
+	float : left;
+	width: 20%;
+	font-family: Sans-Serif;
+}
+
+aside ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+	text-align: center;
+	text-decoration: none;
+	color: inherit;
+}
+
+.nav{
+	list-style: none;
+	padding: 0;
+	margin: 0px auto;
+	text-align: center;
+}
+ul.nav li{
+	display: inline;
+}
+
+div.Shootylogo h1{
+	display: center;
+	
+}
+
+div.Content a {
+	color: blue;
+}
+
+div.Content h2 {
+	text-align: center;
+}
+
+
+p {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h1 {
+	text-align: bottom;
+}
+
