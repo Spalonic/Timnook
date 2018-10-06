@@ -15,14 +15,14 @@
 	background: Yellow;
 	float: left;
 	width: 80%;
-	font-family: Sans-Serif;
+	font-family: "Comic Sans MS";
 }
 
 aside {
 	background : Red;
 	float : left;
 	width: 20%;
-	font-family: Sans-Serif;
+	font-family: "Comic Sans MS";
 }
 
 aside ul {
