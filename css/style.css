@@ -7,6 +7,9 @@
 	font-family: "Comic Sans MS";
 }
 
+.content , aside {
+	height: 900px;
+}
 
 .content {
 	background: Yellow;
@@ -72,4 +75,3 @@ h2 {
 h1 {
 	text-align: bottom;
 }
-
